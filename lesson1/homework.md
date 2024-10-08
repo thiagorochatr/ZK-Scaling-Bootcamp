@@ -67,25 +67,15 @@ f(2) = 0, so 2 is one of the roots.
 
 Dividing f(x) by (x-2):
 
-$
-(x^3 - x^2 + 4x - 12) / (x-2)
-$
+$(x^3 - x^2 + 4x - 12) / (x-2)$
 
-$
-(x^3 - 2x^2 + x^2 - 2x + 6x -12) / (x-2)
-$
+$(x^3 - 2x^2 + x^2 - 2x + 6x -12) / (x-2)$
 
-$
-(x^2 (x - 2) + x (x - 2) + 6(x - 2)) / (x-2)
-$
+$(x^2 (x - 2) + x (x - 2) + 6(x - 2)) / (x-2)$
 
-$
-(x^2  + x  + 6)(x-2) / (x-2)
-$
+$(x^2  + x  + 6)(x-2) / (x-2)$
 
-$
-(x^2  + x  + 6)
-$
+$(x^2  + x  + 6)$
 
 In this polynomial, $\Delta = 1^2 - 4*1*6 = -23$, so the other 2 roots are complex.
 
