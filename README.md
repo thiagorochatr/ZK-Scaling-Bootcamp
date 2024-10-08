@@ -1,1 +1,1 @@
-# ZK-Scaling-Bootcamp
+# ZK Scaling Bootcamp
